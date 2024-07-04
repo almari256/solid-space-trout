@@ -1,0 +1,7 @@
+
+        Original Query : Hey
+
+        History : 
+
+        Response : Reframed Query: Hey, based on our previous conversations, what specific information or assistance are you seeking today?
+        

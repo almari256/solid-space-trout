@@ -1,0 +1,8 @@
+
+        Original Query : Reframed Query: Hey, based on our previous conversations, what specific information or assistance are you seeking today?
+
+        Times to run : 2
+
+        New Queries : What specific information or assistance are you seeking from BlueBirch Organization today? 
+How can BlueBirch Organization assist you based on our previous conversations?
+        
